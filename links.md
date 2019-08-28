@@ -8,3 +8,6 @@
 
 [云栖-使用阿里云Yum镜像安装k8s](https://yq.aliyun.com/articles/626118)
 
+## Bash
+
+[编写命令行工具<TAB>键补全](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
