@@ -1,6 +1,6 @@
 # Links
 
-Some of my learn links
+Some of my common material links
 
 ## Linux
 
