@@ -12,7 +12,7 @@ Some of my common material links
 
 ## Docker
 
-[Docker离线包下载](https://download.docker.com/linux/static/stable/x86_64/)
+[Docker离线包下载地址](https://download.docker.com/linux/static/stable/x86_64/)
 
 ## Kubernetes
 
