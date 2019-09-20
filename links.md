@@ -25,3 +25,8 @@ Some of my common material links
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
 
 [Go-spf13/cobra: 编写CLI的基础框架项目](https://github.com/spf13/cobra)
+
+
+## Gitlab
+
+[GitLab Docker生产级的部署:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
