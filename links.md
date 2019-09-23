@@ -30,3 +30,7 @@ Some of my common material links
 ## Gitlab
 
 [GitLab Docker生产级的部署:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
+
+## Postgres
+
+[Postgres 递归查询ParentId表数据,输出为JSON串](https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
