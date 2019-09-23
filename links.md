@@ -33,4 +33,4 @@ Some of my common material links
 
 ## Postgres
 
-[Postgres 递归查询ParentId表数据,输出为JSON串](https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
+[Postgres 递归查询父子关系表,并输出到JSON串](https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
