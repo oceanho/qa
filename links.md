@@ -29,7 +29,7 @@ Some of my common material links
 
 ## Gitlab
 
-[GitLab Docker生产级的部署:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
+[GitLab Dockerd的生产级部署方案:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
 
 ## Postgres
 
