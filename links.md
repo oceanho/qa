@@ -34,3 +34,7 @@ Some of my common material links
 ## Postgres
 
 [Postgres 递归查询父子关系表,并输出到JSON串](https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
+
+## Development
+
+[各种语言获取Unix时间戳](https://www.cnblogs.com/freeliver54/p/10265221.html)
