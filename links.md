@@ -26,6 +26,8 @@ Some of my common material links
 
 [Go-spf13/cobra: 编写CLI的基础框架项目](https://github.com/spf13/cobra)
 
+[Docs:golang Validator framework](https://godoc.org/gopkg.in/go-playground/validator.v8)
+
 
 ## Gitlab
 
