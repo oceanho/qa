@@ -20,6 +20,10 @@ Some of my common material links
 
 [云栖-使用阿里云Yum镜像安装k8s](https://yq.aliyun.com/articles/626118)
 
+## Websockets
+
+[知乎: WebSocket 介绍，非常不错](https://www.zhihu.com/question/20215561)
+
 ## Go
 
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
