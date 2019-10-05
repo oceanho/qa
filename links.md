@@ -28,6 +28,13 @@ Some of my common material links
 
 [Docs:golang Validator framework](https://godoc.org/gopkg.in/go-playground/validator.v8)
 
+[Go reflect API 介绍](https://segmentfault.com/a/1190000016230264)
+
+### Go Web
+
+[Golang web framework(MVC): revel](https://github.com/revel/revel)
+[Golang web framework(MVC): gin](https://github.com/gin-gonic/gin)
+
 
 ## Gitlab
 
