@@ -36,7 +36,7 @@ Some of my common material links
 
 [Go reflect API 介绍](https://segmentfault.com/a/1190000016230264)
 
-[Golang 教程](https://www.kancloud.cn/uvohp5na133/golang/933967)
+[Golang www.kancloud.cn 零基础到熟练](https://www.kancloud.cn/uvohp5na133/golang/933967)
 
 ### Go Web
 
