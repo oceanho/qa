@@ -24,6 +24,8 @@ Some of my common material links
 
 [知乎: WebSocket 介绍，非常不错](https://www.zhihu.com/question/20215561)
 
+[Golang websocket framework: gorilla/websocket](https://github.com/gorilla/websocket)
+
 ## Go
 
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
