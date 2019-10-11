@@ -26,6 +26,10 @@ Some of my common material links
 
 [Golang websocket framework: gorilla/websocket](https://github.com/gorilla/websocket)
 
+## Python
+
+[Python3-cookbook中文翻译,非常详细的Python3教程](https://github.com/yidao620c/python3-cookbook)
+
 ## Go
 
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
