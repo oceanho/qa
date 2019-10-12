@@ -57,6 +57,8 @@ Some of my common material links
 
 [Postgres 递归查询父子关系表,并输出到JSON串](https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
 
+[Postgres Middleware: percona.com](https://www.percona.com/live/e18/sites/default/files/slides/Introduction%20to%20PostgreSQL%20for%20MySQL%20and%20Oracle%20DBAs%20-%20FileId%20-%20160084.pdf)
+
 ## Development
 
 [各种语言获取Unix时间戳](https://www.cnblogs.com/freeliver54/p/10265221.html)
