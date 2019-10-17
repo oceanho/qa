@@ -8,6 +8,8 @@
 
 1、安装 gitlab-runner
 
+[Gitlab runner docs 文档中心](https://docs.gitlab.com/runner/register/index.html)
+
 2、创建 gitlab token
 
 3、注册 gitlab-runner
