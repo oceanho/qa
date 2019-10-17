@@ -25,3 +25,7 @@ gitlab-runner --name build-svr \
 5、启动 gitlab-runner Service
 
 6、.gitlab-ci.yaml
+
+## .gitlab-ci.yaml
+
+参考资料: [蓝湖 .gitlab-ci.yaml 文档](https://gitlab.lanhuapp.com/help/ci/yaml/README.md)
