@@ -36,7 +36,9 @@
 
 ## P
 
-Represents: 动词，表示，代表，比如：orm.DBModel pepresents a database model.
+- relavent: 形容词,翻译为: 关联的，相关的，比如: Add relavent ansible's docs.
+
+- represents: 动词,翻译为: 表示，代表，比如：DBModel pepresents a database basic model.
 
 ## Q
 
