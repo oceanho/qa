@@ -1,8 +1,6 @@
-# DevOps QA
+# LVM
 
-DevOps question and answers
-
-## LVM
+## 资料
 
 Logical Volume Manager（逻辑卷管理）
 
