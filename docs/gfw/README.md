@@ -4,4 +4,6 @@
 
 ## Lantern(蓝灯)
 
+- [共享 MacOS 上的蓝灯服务](./lantern.md)
+
 ## Shadowsocks(影梭)
