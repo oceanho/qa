@@ -1,2 +1,3 @@
-# devops-daliy-tools
-DevOps / Ops daliy tools
+# Daliy Q/A
+
+My Daliy questions and answer.
