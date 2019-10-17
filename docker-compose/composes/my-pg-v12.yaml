@@ -1,0 +1,14 @@
+version: "3.0"
+
+services:
+  my-pg-v12:
+    image: postgres:12
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: "ocean#pg"
+      POSTGRES_USER: "ocean"
+      POSTGRES_DB: "mypgdb"
+    ports:
+      - 5432:5432
+    volume:
+      - "$(pwd)/postgres/data:/var/lib/postgresql/data"
