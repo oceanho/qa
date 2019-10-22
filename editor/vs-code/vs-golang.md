@@ -4,7 +4,7 @@
 
 ``` shell
 #
-# 建议设置下代理 HTTP_PROXY, HTTPS_PROXY
+# 建议设置先下代理 HTTP_PROXY, HTTPS_PROXY
 go get -v -u github.com/mdempsky/gocode
 go get -v -u github.com/uudashr/gopkgs/cmd/gopkgs
 go get -v -u github.com/ramya-rao-a/go-outline
