@@ -50,6 +50,8 @@ Some of my common material links
 
 [Golang www.kancloud.cn 零基础到熟练](https://www.kancloud.cn/uvohp5na133/golang/933967)
 
+[Golang 正则表达式提取CentOS 系统的发行版本信息](https://play.golang.org/p/ouHIt2PtftN)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
