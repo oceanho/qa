@@ -6,6 +6,8 @@ Some of my common material links
 
 [查看谁登录了服务器](docs/linux/secrity/who-login-my-system.md)
 
+[查看服务器进程内存使用情况的方法](https://linuxhint.com/check_memory_usage_process_linux/)
+
 ## Bash
 
 [让自己的编写的Shell命令行工具支持\<TAB\>键补全](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
