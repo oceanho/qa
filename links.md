@@ -58,6 +58,10 @@ Some of my common material links
 
 [Golang web framework(MVC): gin](https://github.com/gin-gonic/gin)
 
+## Git
+
+[在Shell终端显示工作区的git当前分支](https://github.com/oceanho/qa/blob/master/docs/git/script/gitPS1.sh)
+
 ## Gitlab
 
 [GitLab Dockerd的生产级部署方案:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
