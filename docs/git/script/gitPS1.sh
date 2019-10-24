@@ -11,7 +11,6 @@ function retrieveGitCurrentBranch(){
 		if [ "$wt" == "clean" ]; then
 			# Working tree are clean, green color
 			str="\033[1;32m($str)\033[0m"
-
 		else
 			# Working tree are clean, red color
 			str="\033[0;31m($str)\033[0m"
