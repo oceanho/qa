@@ -10,10 +10,11 @@ function retrieveGitCurrentBranch(){
 		local wt=$(git status | tail -n 1 | awk '$0 ~ /nothing to commit, working tree clean/ {print "clean"}')
 		if [ "$wt" == "clean" ]; then
 			# Working tree are clean, green color
-			str="\e[1;32m($str)\e[m"
+			str="\033[1;32m($str)\033[0m"
+
 		else
 			# Working tree are clean, red color
-			str="\e[0;31m($str)\e[m"
+			str="\033[0;31m($str)\033[0m"
 		fi
 		echo -e "$str"
 	fi
