@@ -54,6 +54,8 @@ Some of my common material links
 
 [Golang 正则表达式提取CentOS 系统的发行版本信息](https://play.golang.org/p/ouHIt2PtftN)
 
+[其它语言(java,c,python,others)调用Go-examples](https://github.com/vladimirvivien/go-cshared-examples)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
