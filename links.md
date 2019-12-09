@@ -85,3 +85,6 @@ Some of my common material links
 ## Openresty
 
 [看云-www.kancloud.cn-OpenRestry使用,适合入门](https://www.kancloud.cn/inwsy/project/1126205)
+
+## Linux real-time logger
+[在浏览器上实时查看Linux服务器的文件内容，非常适用于调试阶段的程序开发](https://github.com/mthenw/frontail)
