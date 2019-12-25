@@ -30,6 +30,8 @@ Some of my common material links
 
 [云栖-使用阿里云Yum镜像安装k8s](https://yq.aliyun.com/articles/626118)
 
+[在 k8s yaml 文件中引用Pods等 k8s元数据的方法](https://akomljen.com/kubernetes-environment-variables/)
+
 ## Websockets
 
 [知乎: WebSocket 介绍，非常不错](https://www.zhihu.com/question/20215561)
