@@ -26,6 +26,8 @@ Some of my common material links
 
 [Docker CEV 漏洞列表](https://www.cvedetails.com/vulnerability-list/vendor_id-13534/product_id-28125/Docker-Docker.html)
 
+[OpenSuse portus: docker-registry Authorization Server](https://hub.docker.com/r/opensuse/portus)
+
 ## Kubernetes
 
 [云栖-使用阿里云Yum镜像安装k8s](https://yq.aliyun.com/articles/626118)
