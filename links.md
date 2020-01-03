@@ -60,6 +60,8 @@ Some of my common material links
 
 [其它语言(java,c,python,others)调用Go-examples](https://github.com/vladimirvivien/go-cshared-examples)
 
+[Go语言实践,编码规范](https://juejin.im/post/5e0ab70ef265da5d0f098988)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
