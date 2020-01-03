@@ -62,6 +62,8 @@ Some of my common material links
 
 [Go语言实践,编码规范](https://juejin.im/post/5e0ab70ef265da5d0f098988)
 
+[awesome-go，Go生态，有非常丰富的Library](https://awesome-go.com/)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
