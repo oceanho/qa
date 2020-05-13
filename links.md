@@ -18,6 +18,10 @@ Some of my common material links
 
 [http/1.1 RFC](https://tools.ietf.org/html/rfc2616)
 
+## 安全
+
+[配置 DNS txt spf 记录，避免域名被恶意伪造邮件发件人](https://www.sohu.com/a/275422179_99961225)
+
 ## Docker
 
 [Docker 静态 binary](https://download.docker.com/linux/static/stable/x86_64/)
