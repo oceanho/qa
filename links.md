@@ -68,6 +68,8 @@ Some of my common material links
 
 [awesome-go，Go生态，有非常丰富的Library](https://awesome-go.com/)
 
+[Go Privite-Module](https://github.com/go-training/golang-private-module)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
