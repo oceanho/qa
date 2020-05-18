@@ -10,6 +10,8 @@ Some of my common material links
 
 [大量Linux资料,本Link是: polipo](http://www.zhangsnow.com/linux/polipo%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.html)
 
+[IPTables DNAT/SNAT实例](https://github.com/oceanho/qa/blob/master/linux/iptables-NAT.md)
+
 ## Bash
 
 [让自己的编写的Shell命令行工具支持\<TAB\>键补全](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
