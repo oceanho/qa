@@ -2,7 +2,7 @@
 
 ## 配置 iptables 作为转发服务器
 
-![iptables NAT](./images/iptables-nat.png)
+![iptables NAT](./iptable-nat.jpg)
 
 ``` shell
 # 1、修改 ip 包的 目标地址，实现从任意客户端访问 tcp 443 口的请求都转发到 172.16.1.100 的 443 端口上去
