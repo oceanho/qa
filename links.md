@@ -50,6 +50,10 @@ Some of my common material links
 
 [Python3-cookbook中文翻译,非常详细的Python3教程](https://github.com/yidao620c/python3-cookbook)
 
+[PIP 清华 mirrors](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
+
+[Python 常用模块/函数-使用教程](https://pythonhowto.readthedocs.io/zh_CN/latest/print.html)
+
 ## Go
 
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
