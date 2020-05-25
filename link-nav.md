@@ -102,6 +102,8 @@ Some of my common material links
 
 ## Nginx
 
+[Nginx Proxy Socket.IO 配置例子](https://github.com/oceanho/qa/blob/master/nginx/websocket-proxy(socket.io)/websocket.conf)
+
 ## Openresty
 
 [看云-www.kancloud.cn-OpenRestry使用,适合入门](https://www.kancloud.cn/inwsy/project/1126205)
