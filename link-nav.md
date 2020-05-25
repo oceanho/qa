@@ -54,6 +54,8 @@ Some of my common material links
 
 [Python 常用模块/函数-使用教程](https://pythonhowto.readthedocs.io/zh_CN/latest/print.html)
 
+[MacOS-安装与配置Python开发环境](https://github.com/oceanho/qa/blob/master/python/prepare-env/macos.md)
+
 ## Go
 
 [Go-urfave/cli: 编写CLI的基础框架项目](https://github.com/urfave/cli)
