@@ -116,3 +116,9 @@ Some of my common material links
 ## Markdown
 
 [Pandoc: Markdown 转 word，pdf，html等等](https://pandoc.org/)
+
+## OCR
+
+[验证码破解技术四部曲之使用卷积神经网络（四）](https://segmentfault.com/a/1190000006993031)
+
+
