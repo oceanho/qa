@@ -104,6 +104,8 @@ Some of my common material links
 
 ## Nginx
 
+[Nginx.org Stub status Module](http://nginx.org/en/docs/http/ngx_http_stub_status_module.html)
+
 [Nginx Proxy Socket.IO 配置例子](https://github.com/oceanho/qa/blob/master/nginx/websocket-proxy(socket.io)/websocket.conf)
 
 ## Openresty
