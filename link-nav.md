@@ -12,6 +12,8 @@ Some of my common material links
 
 [IPTables DNAT/SNAT实例](https://github.com/oceanho/qa/blob/master/linux/iptables-NAT.md)
 
+[内核参数调优](https://github.com/oceanho/qa/blob/master/linux/kernel-optimizations.md)
+
 ## Bash
 
 [让自己的编写的Shell命令行工具支持\<TAB\>键补全](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
