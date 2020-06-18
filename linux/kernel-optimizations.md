@@ -1,7 +1,7 @@
 # Optimizations
 
 
-Linux kernel parameter optimization
+Linux kernel parameter optimization.
 
 ## 内存
 
