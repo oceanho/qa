@@ -31,7 +31,7 @@ sysctl -w <kernel param = value>          # 临时生效某个内核参数
 
 #### fs.*
 
-`fs.file-max`，设置允许打开文件的最大数，最大值: 2147483584
+`fs.file-max`，设置在Kernel级允许最大打开文件描述符数量。
 
 查看当前参数大小 `cat /proc/sys/fs/file-max`
 
@@ -49,7 +49,7 @@ sysctl -w <kernel param = value>          # 临时生效某个内核参数
 
 #### vm.*
 
-`vm.swappiness`，设置当系统内存不足时，允许使用swap的大小，设置为0表示不使用swap. 减少该参数值避免使用swap可以提升系统的性能.
+`vm.swappiness`，设置当系统内存不足时，置换到 swap 的权重, 但不是 swap 和 page cache 的比例, 比如 swappiness = 100 意思是swappiness 和 page cache 的比例是相同的. swappiness = 20 就是 swappiness 和 page cache 比例是1:9. 减少该参数值避免使用swap可以提升系统的性能，该参数不能关闭swap，执行 `swapoff -a` 可以关闭 swap。参考资料：https://zhuanlan.zhihu.com/p/30888296
 
 查看当前系统的swap大小 `cat /proc/sys/vm/swappiness`
 
