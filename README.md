@@ -1,3 +1,3 @@
 # Daliy Q/A
 
-My Personal daliy questions and answer.
+My personal daily question and answer manual.
