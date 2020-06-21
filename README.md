@@ -1,3 +1,3 @@
 # Daliy Q/A
 
-My Daliy questions and answer.
+My Personal daliy questions and answer.
