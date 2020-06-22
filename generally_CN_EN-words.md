@@ -24,6 +24,8 @@
 
 - Improved: 形容词，翻译为: 改善的，优化的
 
+- Improvement: 名词，翻译为：改善，提升，比如: Bug fixes and stabilitiy improvements (Bug修复以及稳定性提升/改善.)
+
 ## J
 
 ## K
