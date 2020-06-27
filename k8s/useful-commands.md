@@ -1,5 +1,5 @@
-# K8S useful Commands
-K8S useful Commands
+# kubectl useful Commands
+The kubectl cli useful Commands
 
 - 获取 k8s 的 API Groups
   - 命令
@@ -36,3 +36,13 @@ K8S useful Commands
             targetPort: 3306
       
       EOF
+
+## 切换到某个K8S
+
+`export KUBECONFIG=~/.k8s/api-k8s-cluster.conf`
+
+通过设置环境变量 `KUBECONFIG`, 告诉 `kubectl` 远程的k8s API地址以及认证信息
+
+## 删除资源无等待
+
+`kubectl get pods -l service=lanhuapi | awk 'NR>1{print "kubectl delete pod --wait=false " $1}' | bash`
