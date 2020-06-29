@@ -1,2 +1,0 @@
-- name: Installing docker
-  shell: echo installing docker

@@ -1,6 +1,0 @@
-- hosts: all
-  roles:
-    - repo
-    - docker
-    - docker-compose
-    - k8s
