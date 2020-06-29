@@ -1,0 +1,6 @@
+registry:
+  addr: https://docker-registry.oceanho.com
+  auth:
+    disable: True
+    user: docker
+    password: registry
