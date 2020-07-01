@@ -34,6 +34,8 @@ else:
     readline.parse_and_bind("tab: complete")
 EOF
 
+echo 'export PYTHONSTARTUP=~/.pythonrc' >> ~/.bash_profile
+
 # references
 # 1. https://stackoverflow.com/questions/246725/how-do-i-add-tab-completion-to-the-python-shell
 ```
