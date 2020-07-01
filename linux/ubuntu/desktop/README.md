@@ -16,3 +16,7 @@ sudo do-upgrade-release -d
 ### 2. 安装 Chrome 浏览器
 
 https://www.ubuntuupdates.org/package/google_chrome/stable/main/base/google-chrome-stable
+
+### 3. 隐藏顶部的菜单栏(Hide top bar)
+
+https://askubuntu.com/questions/1195928/how-to-enable-hide-top-bar-gnome-extension-so-that-it-hides-the-top-bar
