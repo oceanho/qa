@@ -24,5 +24,5 @@ xfs_growfs /data              # /data 是数据挂载点.
 # references
 # ==========
 # 1. https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/xfsgrow
-# 2. https://help.aliyun.com/document_detail/25452.html?spm=5176.11065259.1996646101.searchclickresult.1db338f2e3yMCU#ResizeInInstance
+# 2. https://help.aliyun.com/document_detail/25452.html
 ```
