@@ -22,4 +22,14 @@
 
 ## Administration
 
+### Backup & Restore
+
+#### Logical Backup &vRestore (mysql_dump/mysql_restore)
+
+#### Physical Backup &vRestore (xtrabackup/restore)
+
+### Replication
+
+### High Availability and Scalability
+
 ## 故障排查
