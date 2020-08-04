@@ -80,6 +80,8 @@ Some of my common material links
 
 [Go Privite-Module](https://github.com/go-training/golang-private-module)
 
+[GOLang 编译时修改代码中的变量,比如打版本信息](https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications)
+
 ### Go Web
 
 [Golang web framework(MVC): revel](https://github.com/revel/revel)
