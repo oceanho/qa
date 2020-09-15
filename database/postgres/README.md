@@ -31,3 +31,8 @@
 #### 物理备份/还原(pg_basebackup + wal + recovery.conf)
 
 ## 故障排查
+
+## 资料
+
+1. [Postgres 11 中文资料](https://www.docs4dev.com/docs/zh/postgre-sql/11.2/reference/bgworker.html)
+
