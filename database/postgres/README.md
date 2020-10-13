@@ -36,3 +36,7 @@
 
 1. [Postgres 11 中文资料](https://www.docs4dev.com/docs/zh/postgre-sql/11.2/reference/bgworker.html)
 
+2. [徳哥: Postgres 最佳实践](https://developer.aliyun.com/article/772132)
+
+3. [徳哥: Postgres 物理备份,可能影响主库的操作](https://github.com/digoal/blog/blob/master/201704/20170410_03.md?spm=a2c6h.12873639.0.0.24574a2e1crTae&file=20170410_03.md)
+
