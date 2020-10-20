@@ -6,6 +6,21 @@ Linux 调优（内核参数 + Nginx参数）
 
 ### Linux 内核参数
 
+/etc/sysctl.conf
+
+``` shell
+fs.nr_open = 
+fs.file-max = 
+```
+
+nginx.conf
+
+``` shell
+worker_rlimit_nofile 30000;
+```
+
+[nginx: Open too many files](https://www.cyberciti.biz/faq/linux-unix-nginx-too-many-open-files/)
+
 ### Nginx 配置参数优化
 
 ``` shell
