@@ -66,6 +66,46 @@ http {
 }
 ```
 
+内核参数
+
+``` shell
+net.ipv4.tcp_max_tw_buckets = 6000
+net.ipv4.tcp_sack = 1
+net.ipv4.tcp_window_scaling = 1
+net.ipv4.tcp_rmem = 4096 87380 4194304
+net.ipv4.tcp_wmem = 4096 16384 4194304
+net.core.wmem_default = 8388608
+net.core.rmem_default = 8388608
+net.core.rmem_max = 16777216
+net.core.wmem_max = 16777216
+net.core.netdev_max_backlog = 262144
+net.core.somaxconn = 262144
+net.ipv4.tcp_max_orphans = 3276800
+net.ipv4.tcp_max_syn_backlog = 262144
+net.ipv4.tcp_timestamps = 0
+net.ipv4.tcp_synack_retries = 1
+net.ipv4.tcp_syn_retries = 1
+net.ipv4.tcp_tw_recycle = 1
+net.ipv4.tcp_tw_reuse = 1
+net.ipv4.tcp_mem = 94500000 915000000 927000000
+net.ipv4.tcp_fin_timeout = 1
+net.ipv4.tcp_keepalive_time = 30
+net.ipv4.ip_local_port_range = 1024 65000
+
+#
+# The value  in  file-max  denotes  the  maximum number of file handles
+# that the Linux kernel will allocate. When you get a lot of error messages
+# about running out of  file handles, you might want to raise this limit.
+# The default value is 10% of  RAM in kilobytes.  To  change it, just  write 
+# the new number  into the file
+#
+# grep -r MemTotal /proc/meminfo | awk '{printf("%d",$2/10)}'
+# 32G meminfo can be config values are: 3294797
+fs.file-max = 3294797
+
+# /etc/security/limits.conf
+```
+
 ## Reverse Proxy Server
 
 ### Proxy sub path (代理子路径)
