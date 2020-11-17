@@ -92,6 +92,8 @@ Some of my common material links
 
 [在Shell终端显示工作区的git当前分支](https://github.com/oceanho/qa/blob/master/docs/git/script/gitPS1.sh)
 
+[迁移已存在的Repo大文件到LFS中](https://docs.gitlab.com/ee/topics/git/lfs/migrate_to_git_lfs.html)
+
 ## Gitlab
 
 [GitLab Dockerd的生产级部署方案:sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab#quick-start)
