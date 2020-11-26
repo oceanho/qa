@@ -38,6 +38,8 @@
 
 [pg_auto_fail_over,PostgreSQL 自动故障转移 Extension](https://github.com/citusdata/pg_auto_failover)
 
+[MPP: greenplum, 处理 PB 级数据的 MPP 数据库，基于 PostgreSQL](https://github.com/greenplum-db/gpdb)
+
 ## 资料
 
 1. [Postgres 11 中文资料](https://www.docs4dev.com/docs/zh/postgre-sql/11.2/reference/bgworker.html)
