@@ -35,6 +35,7 @@
 ## PostgreSQL 生态
 
 [citus,实现 PostgreSQL 可伸缩 Extension](https://github.com/citusdata/citus)
+
 [pg_auto_fail_over,PostgreSQL 自动故障转移 Extension](https://github.com/citusdata/pg_auto_failover)
 
 ## 资料
