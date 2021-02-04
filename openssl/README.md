@@ -38,8 +38,9 @@ openssl req -noout -text -in myserver.csr
 
 > openssl rsa -in myserver.key -out server.key.insecure
 
+# 加/解密文件
+> openssl enc -e -aes-256-gcm -pass pass:<密码> -in <源文件URL> -out <目标/输出文件URL>
+# -aes-256-gcm 是加密算法，-e 表示加密，解密用 -d。-pass 指定密钥，格式必须是 pass:<密码>.
 作者：liang_echo
-链接：https://www.jianshu.com/p/f5f93c89155e
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
+
