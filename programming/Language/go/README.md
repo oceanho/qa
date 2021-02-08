@@ -23,3 +23,5 @@
 ## 资料
 
 1. [Go 分布式Id生成器](https://chai2010.cn/advanced-go-programming-book/ch6-cloud/ch6-01-dist-id.html)
+
+2. [GoLang 设计与实现](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/)
